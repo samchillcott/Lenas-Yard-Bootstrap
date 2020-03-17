@@ -30,7 +30,7 @@ body {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background: url("/LY images/bg\ image.jpg") no-repeat center;
+  background: url("LY images/bg\ image.jpg") no-repeat center;
   background-size: cover;
 }
 
